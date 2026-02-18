@@ -1,5 +1,6 @@
 {
-    "feeds": [
+    "fullscreen_text": "You're using rstp-viewer!",
+	"feeds": [
 		{
 			"name": "Local Host Test", 
 			"url": "rtsp://localhost:8554/camera1",
