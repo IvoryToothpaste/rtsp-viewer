@@ -3,6 +3,10 @@
 FFmpeg Tkinter-based RTSP viewer for IP cameras or rtsp streams. Features a scrollable stream sidebar, hotkey support, active feed highlighting, and threaded OpenCV video playback.<br/>
 Configurable by config.json: url, stream name, hotkeys, and comments. <br/>
 <br/>
+<ins>**rtsp-viewer-vlc**</ins><br/>
+VLC TKinter-based RTSP viewer for IP cameras or rtsp streams. Basically the original version was having my Raspberry pi limping along, and using embedded VLC increased performance significantly. <br/>
+Configurable by config.json: url, stream name, and hotkeys. <br/>
+<br/>
 <ins>**Hotkeys**</ins><br/>
 F - Fullscreen<br/>
 ESC - Escape Fullscreen<br/>
