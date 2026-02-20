@@ -1,0 +1,32 @@
+{
+  "streams": [
+    { "name": "Cam 1", "url": "rtsp://210.99.70.120:1935/live/cctv001.stream", "hotkey": "F1" },
+    { "name": "Cam 2", "url": "rtsp://210.99.70.120:1935/live/cctv002.stream", "hotkey": "F2" },
+    { "name": "Cam 3", "url": "rtsp://210.99.70.120:1935/live/cctv003.stream", "hotkey": "F3" },
+    { "name": "Cam 4", "url": "rtsp://210.99.70.120:1935/live/cctv004.stream", "hotkey": "F4" },
+    { "name": "Cam 5", "url": "rtsp://210.99.70.120:1935/live/cctv005.stream", "hotkey": "F5" },
+    { "name": "Cam 6", "url": "rtsp://210.99.70.120:1935/live/cctv006.stream", "hotkey": "F6" },
+    { "name": "Cam 7", "url": "rtsp://210.99.70.120:1935/live/cctv007.stream", "hotkey": "F7" },
+    { "name": "Cam 8", "url": "rtsp://210.99.70.120:1935/live/cctv008.stream", "hotkey": "F8" },
+    { "name": "Cam 9", "url": "rtsp://210.99.70.120:1935/live/cctv009.stream", "hotkey": "F9" },
+    { "name": "Cam 10", "url": "rtsp://210.99.70.120:1935/live/cctv010.stream", "hotkey": "F10" },
+    { "name": "Cam 11", "url": "rtsp://210.99.70.120:1935/live/cctv011.stream", "hotkey": "F11" },
+    { "name": "Cam 12", "url": "rtsp://210.99.70.120:1935/live/cctv012.stream", "hotkey": "F12" },
+    { "name": "Cam 13", "url": "rtsp://210.99.70.120:1935/live/cctv013.stream", "hotkey": "F13" },
+    { "name": "Cam 14", "url": "rtsp://210.99.70.120:1935/live/cctv014.stream", "hotkey": "F14" },
+    { "name": "Cam 15", "url": "rtsp://210.99.70.120:1935/live/cctv015.stream", "hotkey": "F15" },
+    { "name": "Cam 16", "url": "rtsp://210.99.70.120:1935/live/cctv016.stream", "hotkey": "F16" },
+    { "name": "Cam 17", "url": "rtsp://210.99.70.120:1935/live/cctv017.stream", "hotkey": "F17" },
+    { "name": "Cam 18", "url": "rtsp://210.99.70.120:1935/live/cctv018.stream", "hotkey": "F18" },
+    { "name": "Cam 19", "url": "rtsp://210.99.70.120:1935/live/cctv019.stream", "hotkey": "F19" },
+    { "name": "Cam 20", "url": "rtsp://210.99.70.120:1935/live/cctv020.stream", "hotkey": "F20" },
+    { "name": "Cam 21", "url": "rtsp://210.99.70.120:1935/live/cctv021.stream", "hotkey": "F21" },
+    { "name": "Cam 22", "url": "rtsp://210.99.70.120:1935/live/cctv022.stream", "hotkey": "F22" },
+    { "name": "Cam 23", "url": "rtsp://210.99.70.120:1935/live/cctv023.stream", "hotkey": "F23" },
+    { "name": "Cam 24", "url": "rtsp://210.99.70.120:1935/live/cctv024.stream", "hotkey": "F24" },
+    { "name": "Cam 25", "url": "rtsp://210.99.70.120:1935/live/cctv025.stream", "hotkey": "F25" },
+    { "name": "Cam 26", "url": "rtsp://210.99.70.120:1935/live/cctv026.stream", "hotkey": "F26" },
+    { "name": "Cam 27", "url": "rtsp://210.99.70.120:1935/live/cctv027.stream", "hotkey": "F27" }
+
+  ]
+}
